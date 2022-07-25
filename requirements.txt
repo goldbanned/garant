@@ -16,7 +16,6 @@ colorama==0.4.4
 configparser==5.2.0
 crayons==0.4.0
 cryptography==36.0.1
-demjson==2.2.4
 distlib==0.3.3
 fake-useragent==0.1.11
 filelock==3.3.2
